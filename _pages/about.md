@@ -15,19 +15,19 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='biography'></span>
+<span class='anchor' id='-biography'></span>
 # 📜 Biography
 I am a Ph.D. candidate of Beijing Institute of Technology (BIT), advised by Prof. Yuwei Wu and Prof. Yunde Jia.
 
 My research interest includes Multi-modals Understanding, Embodied Intelligence. 
 
-<span class='anchor' id='educations'></span>
+<span class='anchor' id='-educations'></span>
 # 📖 Educations
 - *2023.09 - now*, <a href="https://www.bit.edu.cn/"><img class="png" src="/images/BIT_logo.png" width="23pt"></a> Ph.D. in Computer Science, Beijing Institute of Technology, Beijing, China. 
 - *2021.09 - 2023.07*, <a href="https://www.bit.edu.cn/"><img class="png" src="/images/BIT_logo.png" width="23pt"></a> M.S. in Software Engineering, Beijing Institute of Technology, Beijing, China.
 - *2014.09 - 2018.07*, <a href="https://www.sicnu.edu.cn/"><img class="png" src="/images/SNU_logo.png" width="23pt"></a> B.S. in Computer Science, Sichuan Normal University, Chengdu, Sichuan, China.
 
-<span class='anchor' id='publications'></span>
+<span class='anchor' id='-publications'></span>
 # 📝 Publications 
 **World Knowledge-Enhanced Reasoning Using Instruction-guided Interactor in Autonomous Driving**
 - `Mingliang Zhai`, Cheng Li, Zengyuan Guo, Ningrui Yang, Xiameng Qin, Sanyuan Zhao, Junyu Han, Ji Tao, Yuwei Wu, Yunde Jia.
@@ -45,12 +45,12 @@ My research interest includes Multi-modals Understanding, Embodied Intelligence.
 - Chuanhao Li, Zhen Li, Chenchen Jing, Yuwei Wu, `Mingliang Zhai`, and Yunde Jia.
 - [ECCV 2024] [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06434.pdf) [[code]](https://github.com/NeverMoreLCH/CG-SPS)
 
-<span class='anchor' id='awards'></span>
+<span class='anchor' id='-awards'></span>
 # 🎖 Honors and Awards
-- *2024.05*, `the innovation award` in the "drive with language" track of [[CVPR2024 autonomous grand challenge]](https://opendrivelab.com/challenge2024/).
-- *2023.01*, `the second prize` in the multi-modal technology innovation competition of the first "Xingzhi Cup" National Artificial Intelligence Innovation Application Competition.
+- *2024.05*, **the innovation award** in the "drive with language" track of [[CVPR2024 autonomous grand challenge]](https://opendrivelab.com/challenge2024/).
+- *2023.01*, **the second prize** in the multi-modal technology innovation competition of the first "Xingzhi Cup" National Artificial Intelligence Innovation Application Competition.
 
-<span class='anchor' id='internship'></span>
+<span class='anchor' id='-internship'></span>
 # 💼 Internship
 - *2024.03 - 2024.08*, Chongqing Changan Automobile Co., Ltd. Chongqing, China.
 - *2022.06 - 2024.03*, Baidu Inc, China.
