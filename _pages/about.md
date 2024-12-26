@@ -16,43 +16,42 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='biography'></span>
-
+# 📜 Biography
 I am a Ph.D. candidate of Beijing Institute of Technology (BIT), advised by Prof. Yuwei Wu and Prof. Yunde Jia.
 
 My research interest includes Multi-modals Understanding, Embodied Intelligence. 
 
 <span class='anchor' id='educations'></span>
 # 📖 Educations
-- *2023.09 - now*, Ph.D. in Computer Science, Beijing Institute of Technology, Beijing, China. 
-- *2021.09 - 2023.07*, M.S. in Software Engineering, Beijing Institute of Technology, Beijing, China.
-- *2014.09 - 2018.07*, B.S. in Computer Science, Sichuan Normal University, Chengdu, Sichuan, China.
+- *2023.09 - now*, <a href="https://www.bit.edu.cn/"><img class="png" src="/images/BIT_logo.png" width="23pt"></a> Ph.D. in Computer Science, Beijing Institute of Technology, Beijing, China. 
+- *2021.09 - 2023.07*, <a href="https://www.bit.edu.cn/"><img class="png" src="/images/BIT_logo.png" width="23pt"></a> M.S. in Software Engineering, Beijing Institute of Technology, Beijing, China.
+- *2014.09 - 2018.07*, <a href="https://www.sicnu.edu.cn/"><img class="png" src="/images/SNU_logo.png" width="23pt"></a> B.S. in Computer Science, Sichuan Normal University, Chengdu, Sichuan, China.
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
+**World Knowledge-Enhanced Reasoning Using Instruction-guided Interactor in Autonomous Driving**
+- `Mingliang Zhai`, Cheng Li, Zengyuan Guo, Ningrui Yang, Xiameng Qin, Sanyuan Zhao, Junyu Han, Ji Tao, Yuwei Wu, Yunde Jia.
+- [AAAI 2025] [[paper]](https://arxiv.org/pdf/2412.06324)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+**Fast-StrucTexT: An efficient hourglass transformer with modality-guided dynamic token merge for document understanding**
+- `Mingliang Zhai`, Yulin Li, Xiameng Qin, Chen Yi, Qunyi Xie, Chengquan Zhang, Kun Yao, Yuwei Wu, Yunde Jia.
+- [IJCAI 2023] [[paper]](https://www.ijcai.org/proceedings/2023/0585.pdf) 
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**In-Context Compositional Generalization for Large Vision-Language Models**
+- Chuanhao Li, Chenchen Jing, Zhen Li, `Mingliang Zhai`, Yuwei Wu, and Yunde Jia.
+- [EMNLP 2024] [[paper]](https://aclanthology.org/2024.emnlp-main.996.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+**Compositional Substitutivity of Visual Reasoning for Visual Question Answering**
+- Chuanhao Li, Zhen Li, Chenchen Jing, Yuwei Wu, `Mingliang Zhai`, and Yunde Jia.
+- [ECCV 2024] [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06434.pdf) [[code]](https://github.com/NeverMoreLCH/CG-SPS)
 
 <span class='anchor' id='awards'></span>
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.05*, `the innovation award` in the "drive with language" track of [[CVPR2024 autonomous grand challenge]](https://opendrivelab.com/challenge2024/).
+- *2023.01*, `the second prize` in the multi-modal technology innovation competition of the first "Xingzhi Cup" National Artificial Intelligence Innovation Application Competition.
 
 <span class='anchor' id='internship'></span>
 # 💼 Internship
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.03 - 2024.08*, Chongqing Changan Automobile Co., Ltd. Chongqing, China.
+- *2022.06 - 2024.03*, Baidu Inc, China.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
