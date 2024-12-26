@@ -29,21 +29,41 @@ My research interest includes Multi-modals Understanding, Embodied Intelligence.
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/pipeline/zml-aaai-25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 **World Knowledge-Enhanced Reasoning Using Instruction-guided Interactor in Autonomous Driving**
 - `Mingliang Zhai`, Cheng Li, Zengyuan Guo, Ningrui Yang, Xiameng Qin, Sanyuan Zhao, Junyu Han, Ji Tao, Yuwei Wu, Yunde Jia.
 - [AAAI 2025] [[paper]](https://arxiv.org/pdf/2412.06324)
+</div>
+</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2023</div><img src='images/pipeline/zml-ijcai-23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 **Fast-StrucTexT: An efficient hourglass transformer with modality-guided dynamic token merge for document understanding**
 - `Mingliang Zhai`, Yulin Li, Xiameng Qin, Chen Yi, Qunyi Xie, Chengquan Zhang, Kun Yao, Yuwei Wu, Yunde Jia.
 - [IJCAI 2023] [[paper]](https://www.ijcai.org/proceedings/2023/0585.pdf) 
+</div>
+</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/pipeline/lch-emnlp-24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 **In-Context Compositional Generalization for Large Vision-Language Models**
 - Chuanhao Li, Chenchen Jing, Zhen Li, `Mingliang Zhai`, Yuwei Wu, and Yunde Jia.
 - [EMNLP 2024] [[paper]](https://aclanthology.org/2024.emnlp-main.996.pdf)
+</div>
+</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/pipeline/lch-eccv-24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 **Compositional Substitutivity of Visual Reasoning for Visual Question Answering**
 - Chuanhao Li, Zhen Li, Chenchen Jing, Yuwei Wu, `Mingliang Zhai`, and Yunde Jia.
 - [ECCV 2024] [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06434.pdf) [[code]](https://github.com/NeverMoreLCH/CG-SPS)
+</div>
+</div>
+
+
+
 
 <span class='anchor' id='-awards'></span>
 # 🎖 Honors and Awards
