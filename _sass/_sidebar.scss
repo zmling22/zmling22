@@ -39,7 +39,7 @@
   }
 
   p, li {
-    font-family: $sans-serif;
+    font-family: $serif;
     font-size: $type-size-6;
     line-height: 1.5;
   }
@@ -120,19 +120,22 @@
 }
 
 .author__name {
-  margin: 0;
+  display: block;
+  margin: 0 auto;
+  width: fit-content;
+}
 
-  @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 10px;
-  }
+.author__name-zh {
+  display: block;
+  margin: 0 auto;
+  width: fit-content;
 }
 
 .sidebar .author__name {
   @include breakpoint($medium) {
     font-size: $type-size-3;
   }
-  font-family: $sans-serif;
+  font-family: $serif;
   font-size: $type-size-4;
 }
 
@@ -149,7 +152,7 @@
   position: relative;
   display: table-cell;
   vertical-align: middle;
-  font-family: $sans-serif;
+  font-family: $serif;
   z-index: 10;
   position: relative;
   margin-left: auto;
