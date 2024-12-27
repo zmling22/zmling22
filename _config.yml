@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Mingliang Zhai"
+title                    : "翟明亮 - Mingliang Zhai"
 description              : "Ph.D Canditate."
 repository               : "zmling22/zmling22.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Mingliang Zhai"
+  name             : "翟明亮"
+  name_zh          : "(Mingliang Zhai)"
   avatar           : "images/头像.jpg"
   bio              : "Beijing Inistitute Technology"
   location         : "Beijing, China"
