@@ -17,9 +17,13 @@ redirect_from:
 
 <span class='anchor' id='-biography'></span>
 # 📜 Biography
-I am a Ph.D. candidate of Beijing Institute of Technology (BIT), advised by Prof. Yuwei Wu and Prof. Yunde Jia.
+I am a Ph.D. candidate of Beijing Institute of Technology (BIT), advised by Prof. [Yuwei Wu](https://wu-yuwei-bit.github.io/) and Prof. [Yunde Jia](https://scholar.google.com/citations?user=Sl6TV7gAAAAJ&hl=zh-CN).
+I received my Master's degree in 2023 from Beijing Institute of Technology supervised by Prof. [Yuwei Wu](https://wu-yuwei-bit.github.io/) and Prof. [Yunde Jia](https://scholar.google.com/citations?user=Sl6TV7gAAAAJ&hl=zh-CN), and Bachlor degree in 2018 from Sichuan Normal University.
 
-My research interest includes Multi-modals Understanding, Embodied Intelligence. 
+My research area lies at: 
+- Vision-and-Language
+- Multimodal Large Language Models
+- Embodied Intelligence
 
 <span class='anchor' id='-educations'></span>
 # 📖 Educations
