@@ -73,5 +73,5 @@ My research interest includes Multi-modals Understanding, Embodied Intelligence.
 <span class='anchor' id='-internships'></span>
 # 💼 Internship
 - *2024.03 - 2024.08*, Chongqing Changan Automobile Co., Ltd. Chongqing, China.
-- *2022.06 - 2024.03*, Baidu Inc, China.
+- *2022.06 - 2024.03*, Baidu Inc. Beijing, China.
 
