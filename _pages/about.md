@@ -23,7 +23,7 @@ My research interest includes Multi-modals Understanding, Embodied Intelligence.
 
 <span class='anchor' id='-educations'></span>
 # 📖 Educations
-- *2023.09 - now*, <a href="https://www.bit.edu.cn/"><img class="png" src="/images/BIT_logo.png" width="23pt"></a> Ph.D. in Computer Science, Beijing Institute of Technology, Beijing, China. 
+- *2023.09 - NOW*, <a href="https://www.bit.edu.cn/"><img class="png" src="/images/BIT_logo.png" width="23pt"></a> Ph.D. in Computer Science, Beijing Institute of Technology, Beijing, China. 
 - *2021.09 - 2023.07*, <a href="https://www.bit.edu.cn/"><img class="png" src="/images/BIT_logo.png" width="23pt"></a> M.S. in Software Engineering, Beijing Institute of Technology, Beijing, China.
 - *2014.09 - 2018.07*, <a href="https://www.sicnu.edu.cn/"><img class="png" src="/images/SNU_logo.png" width="23pt"></a> B.S. in Computer Science, Sichuan Normal University, Chengdu, Sichuan, China.
 
