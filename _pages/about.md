@@ -38,7 +38,7 @@ My research area lies at:
 <div class='paper-box-text' markdown="1">
 **World Knowledge-Enhanced Reasoning Using Instruction-guided Interactor in Autonomous Driving**
 - **Mingliang Zhai**, Cheng Li, Zengyuan Guo, Ningrui Yang, Xiameng Qin, Sanyuan Zhao, Junyu Han, Ji Tao, Yuwei Wu, Yunde Jia.
-- [AAAI 2025] [[paper]](https://arxiv.org/pdf/2412.06324)
+- [AAAI 2025] [[paper]](https://arxiv.org/pdf/2412.06324)[[code]](https://github.com/zmling22/KAD)
 </div>
 </div>
 
